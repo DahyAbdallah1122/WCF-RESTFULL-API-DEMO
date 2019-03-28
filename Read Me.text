@@ -1,0 +1,5 @@
+This Demo provide RESTfull wcf web services on table Customer in database
+that heple Consumer to Get All Customer from database
+also to update and delete and insert Customer Table
+This Demo use windows form to test 
+RESTfull WCF Services
